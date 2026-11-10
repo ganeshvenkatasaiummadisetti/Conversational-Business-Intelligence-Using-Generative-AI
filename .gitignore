@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.db
+*.png
+*.csv
+*.xlsx
+*.xls
+!demo-insight.png
+!demo-chart.png
+!demo-self-correction.png
+!demo-upload.png
